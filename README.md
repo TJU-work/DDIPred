@@ -11,16 +11,21 @@
 - rdkit 2020.09.1.0 
 
 ## Installation
-We suggest using the conda environment to install dependencies.
-To install the redkit tool correctly,
-please use the conda command:
-```
-    conda install -c rdkit rdkit
-```
-Other dependencies can be installed by the command:
-```
-    pip install -r requirements.txt
-```
+1. Clone the repository:
+   ```
+    git clone [https://github.com/TJU-work//DDI_Prediction.git]
+    cd [DDI_Prediction]
+   ```
+3. We suggest using the conda environment to install dependencies.
+   To install the redkit tool correctly,
+   please use the conda command:
+   ```
+       conda install -c rdkit rdkit
+   ```
+4. Other dependencies can be installed by the command:
+   ```
+       pip install -r requirements.txt
+   ```
 
 ## File description
 
