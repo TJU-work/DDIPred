@@ -20,11 +20,11 @@
    To install the redkit tool correctly,
    please use the conda command:
    ```
-       conda install -c rdkit rdkit
+   conda install -c rdkit rdkit
    ```
 4. Other dependencies can be installed by the command:
    ```
-       pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## File description
