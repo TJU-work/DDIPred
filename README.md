@@ -13,8 +13,8 @@
 ## Installation
 1. Clone the repository:
    ```
-    git clone [https://github.com/TJU-work//DDI_Prediction.git]
-    cd [DDI_Prediction]
+    git clone [https://github.com/TJU-work//DDIPred.git]
+    cd [DDIPred]
    ```
 3. We suggest using the conda environment to install dependencies.
    To install the redkit tool correctly,
